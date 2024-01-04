@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=slice&color=A5DE9F&height=100&section=header&text=YEON%20SUNG's%20Github-nl-Hello!&fontSize=40&fontColor=f6f6f6&stroke=353535&strokeWidth=1" />
 
 <!--
 **koinoniays2/koinoniays2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
