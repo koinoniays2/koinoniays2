@@ -3,7 +3,7 @@
 ---
 ## 👋 Introduction
 
--영진직업전문학교 Open API를 활용한 스마트 웹&앱 콘텐츠실무 개발자 양성과정 수료중
+-영진직업전문학교 Open API를 활용한 스마트 웹&앱 콘텐츠실무 개발자 양성과정 수료(2023.11.07 ~ 2024.06.03)
 
 ## ✏️ Studying
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koinoniays2&layout=compact&theme=merko)  
